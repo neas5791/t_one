@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package taskone.view;
+package junk;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
